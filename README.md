@@ -3,7 +3,7 @@
 ¡Bienvenido/a! Soy Christian Cruz, y este repositorio contiene algunos de mis dashboards desarrollados en Power BI. Cada uno de estos proyectos refleja mi enfoque en el análisis de datos, visualización clara y toma de decisiones basada en evidencia.
 ---
 
-## 🗂️ Dashboards Disponibles
+## 📅 Dashboards Disponibles
 
 ### 1. 📆 Dashboard de Ventas
 
@@ -53,7 +53,7 @@ Este tablero permite identificar libros más rentables, evaluar la efectividad d
 
 ---
 
-## 🧩 Objetivo del Repositorio
+## 🚀 Objetivo del Repositorio
 
 Este portafolio fue creado con fines educativos y profesionales para mostrar mis habilidades en:
 
