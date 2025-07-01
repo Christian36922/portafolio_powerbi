@@ -5,16 +5,16 @@
 
 ## 🗂️ Dashboards Disponibles
 
-### 1. 🛒 Dashboard de Ventas
+### 1. 📆 Dashboard de Ventas
 
 - **Archivo:** `Sales Analysis Report.pbix`
 - **PDF:** 📄 [Ver reporte en PDF](./Sales%20Analysis%20Report.pdf)
 - **Descripción:** Este dashboard proporciona una visión integral del desempeño comercial a lo largo de tres años (2017-2019). Incluye métricas clave como ingresos totales, cantidad vendida, costos y utilidades. Se destacan los siguientes análisis:
-  - 🥇 **Top y Bottom 5 productos** por ingresos generados.
+  - 📊 **Top y Bottom 5 productos** por ingresos generados.
   - 📈 **Tendencia mensual de ingresos** segmentada por año.
   - 👥 **Análisis por cliente y canal de venta** (Distribuidor, Exportación, Mayorista).
-  - 🏙️ **Ranking de ciudades** con mayor y menor generación de ingresos.
-  - 🗂️ Filtros dinámicos por mes y canal de distribución.
+  - 🌎 **Ranking de ciudades** con mayor y menor generación de ingresos.
+  - 📦 Filtros dinámicos por mes y canal de distribución.
 
 Este tablero facilita la identificación de patrones de compra, zonas de alto rendimiento comercial y oportunidades de mejora en la distribución de productos.
 
