@@ -33,7 +33,7 @@ Este tablero permite monitorear fácilmente el grado de cumplimiento regional, i
 
 ### 3. 📚 Reporte de Ventas de Libros – PANDIL
 
-- **Archivo:** `pandil_report.pbix`
+- **Archivo:** `PANDIL Report.pbix`
 - **PDF:** 📄 [Ver reporte en PDF](./PANDIL%20Report.pdf)
 - **Descripción:** Este dashboard ofrece un análisis detallado de las ventas de libros en la librería PANDIL durante los años 2017 y 2018, con un enfoque en temporadas comerciales clave. Las visualizaciones incluyen:
   - 💰 **Desglose anual de ventas brutas, descuentos y ventas netas.**
@@ -47,7 +47,7 @@ Este tablero permite identificar libros más rentables, evaluar la efectividad d
 
 ### 4. 🏭 Reporte de Producción
 
-- **Archivo:** `production_report.pbix`
+- **Archivo:** `Production Report.pbix`
 - **PDF:** 📄 [Ver reporte en PDF](./Production%20Report.pdf)
 - **Descripción:** Este dashboard muestra el desempeño productivo diario de una planta durante el mes de noviembre, con énfasis en la comparación entre lo planificado y lo ejecutado. Ofrece una visualización clara de:
   - 🔢 **Producción total, máxima y mínima diaria.**
