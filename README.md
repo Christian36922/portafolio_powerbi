@@ -8,7 +8,7 @@
 ### 1. 📆 Dashboard de Ventas
 
 - **Archivo:** `Sales Analysis Report.pbix`
-- **PDF:** 📄 [Ver reporte en PDF](./Sales%20Analysis%20Report.pdf)
+- **PDF:** 📄 [Descargar Sales Analysis Report (PDF)](https://github.com/Christian36922/portafolio_powerbi/raw/main/Sales%20Analysis%20Report.pdf)
 - **Descripción:** Este dashboard proporciona una visión integral del desempeño comercial a lo largo de tres años (2017-2019). Incluye métricas clave como ingresos totales, cantidad vendida, costos y utilidades. Se destacan los siguientes análisis:
   - 📊 **Top y Bottom 5 productos** por ingresos generados.
   - 📈 **Tendencia mensual de ingresos** segmentada por año.
@@ -21,7 +21,7 @@ Este tablero facilita la identificación de patrones de compra, zonas de alto re
 ### 2. 📆 Reporte de Ventas Julio-Octubre 2019
 
 - **Archivo:** `Reporte de Ventas Julio-Octubre 2019.pbix`
-- **PDF:** 📄 [Ver reporte en PDF](./Reporte%20de%20Ventas%20Julio-Octubre%202019.pdf)
+- **PDF:** 📄 [Descargar Reporte de Ventas Julio-Octubre 2019 (PDF)](https://github.com/Christian36922/portafolio_powerbi/raw/main/Reporte%20de%20Ventas%20Julio-Octubre%202019.pdf)
 - **Descripción:** Este dashboard analiza el rendimiento comercial de diferentes zonas del país durante los meses de julio a octubre de 2019. Está enfocado en evaluar el cumplimiento de cuotas mensuales y el desempeño regional. Incluye:
   - 📅 **Análisis mensual** de ventas versus objetivos por zona.
   - 📊 Visualización del **% de cumplimiento por zona y mes**, con indicadores de tendencia.
@@ -34,7 +34,7 @@ Este tablero permite monitorear fácilmente el grado de cumplimiento regional, i
 ### 3. 📚 Reporte de Ventas de Libros – PANDIL
 
 - **Archivo:** `PANDIL Report.pbix`
-- **PDF:** 📄 [Ver reporte en PDF](./PANDIL%20Report.pdf)
+- **PDF:** 📄 [Descargar PANDIL Report (PDF)](https://github.com/Christian36922/portafolio_powerbi/raw/main/PANDIL%20Report.pdf)
 - **Descripción:** Este dashboard ofrece un análisis detallado de las ventas de libros en la librería PANDIL durante los años 2017 y 2018, con un enfoque en temporadas comerciales clave. Las visualizaciones incluyen:
   - 💰 **Desglose anual de ventas brutas, descuentos y ventas netas.**
   - 📦 **Costos totales y costos por envíos gratuitos**, segmentados por año.
@@ -48,7 +48,7 @@ Este tablero permite identificar libros más rentables, evaluar la efectividad d
 ### 4. 🏭 Reporte de Producción
 
 - **Archivo:** `Production Report.pbix`
-- **PDF:** 📄 [Ver reporte en PDF](./Production%20Report.pdf)
+- **PDF:** 📄 [Descargar Production Report (PDF)](https://github.com/Christian36922/portafolio_powerbi/raw/main/Production%20Report.pdf)
 - **Descripción:** Este dashboard muestra el desempeño productivo diario de una planta durante el mes de noviembre, con énfasis en la comparación entre lo planificado y lo ejecutado. Ofrece una visualización clara de:
   - 🔢 **Producción total, máxima y mínima diaria.**
   - 📆 **Desempeño por semana y por turno (día y noche).**
