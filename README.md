@@ -52,8 +52,8 @@ Este tablero permite identificar libros más rentables, evaluar la efectividad d
 - **Descripción:** Este dashboard muestra el desempeño productivo diario de una planta durante el mes de noviembre, con énfasis en la comparación entre lo planificado y lo ejecutado. Ofrece una visualización clara de:
   - 🔢 **Producción total, máxima y mínima diaria.**
   - 📆 **Desempeño por semana y por turno (día y noche).**
-  - 🧊 **Áreas de producción** como refrigerado, tienda y picking nocturno.
-  - 🧍‍♂️ **Top 7 operarios** con mayor volumen de producción.
+  - 📦 **Áreas de producción** como refrigerado, tienda y picking nocturno.
+  - 👥 **Top 7 operarios** con mayor volumen de producción.
   - 📊 **Nivel de cumplimiento (%)** frente a la meta, por semana, turno y área.
 
 El tablero permite detectar cuellos de botella, medir eficiencia operativa y enfocar mejoras por segmento de trabajo o personal.
