@@ -42,8 +42,23 @@ Este tablero permite monitorear fácilmente el grado de cumplimiento regional, i
   - 📚 **Top 10 libros más rentables** en términos de ganancias y ventas netas.
   - 🌍 **Distribución geográfica** de ganancias y envíos gratuitos por estado.
   - 📦 Métricas clave operativas como número de órdenes, promedio de libros por orden, y ticket promedio por venta.
-
+    
 Este tablero permite identificar libros más rentables, evaluar la efectividad de campañas estacionales y detectar oportunidades para optimizar distribución y promociones.
+
+### 4. 🏭 Reporte de Producción
+
+- **Archivo:** `production_report.pbix`
+- **PDF:** 📄 [Ver reporte en PDF](./Production%20Report.pdf)
+- **Descripción:** Este dashboard muestra el desempeño productivo diario de una planta durante el mes de noviembre, con énfasis en la comparación entre lo planificado y lo ejecutado. Ofrece una visualización clara de:
+  - 🔢 **Producción total, máxima y mínima diaria.**
+  - 📆 **Desempeño por semana y por turno (día y noche).**
+  - 🧊 **Áreas de producción** como refrigerado, tienda y picking nocturno.
+  - 🧍‍♂️ **Top 7 operarios** con mayor volumen de producción.
+  - 📊 **Nivel de cumplimiento (%)** frente a la meta, por semana, turno y área.
+
+El tablero permite detectar cuellos de botella, medir eficiencia operativa y enfocar mejoras por segmento de trabajo o personal.
+
+---
 
 ## 🚀 Tecnologías Utilizadas
 
